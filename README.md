@@ -22,25 +22,15 @@ bash -c "$(curl -s https://raw.githubusercontent.com/CFPB/development/main/open-
 
 ----
 
-# Project Title
+# TinyCMS
 
-**Description**:  Put a meaningful, short, plain-language description of what
-this project is trying to accomplish and why it matters.
-Describe the problem(s) this project solves.
-Describe how this software can improve the lives of its audience.
+**Description**:  A minimal, meta-framework agnostic Typscript Content Management System. 
 
 Other things to include:
 
   - **Technology stack**: Indicate the technological nature of the software, including primary programming language(s) and whether the software is intended as standalone or as a module in a framework or other ecosystem.
-  - **Status**:  Alpha, Beta, 1.1, etc. It's OK to write a sentence, too. The goal is to let interested people know where this project is at. This is also a good place to link to the [CHANGELOG](CHANGELOG.md).
-  - **Links to production or demo instances**
-  - Describe what sets this apart from related-projects. Linking to another doc or page is OK if this can't be expressed in a sentence or two.
-
-
-**Screenshot**: If the software has visual components, place a screenshot after the description; e.g.,
-
-![](https://raw.githubusercontent.com/cfpb/open-source-project-template/main/screenshot.png)
-
+  - **Status**: Planning [CHANGELOG](CHANGELOG.md).
+  - **Links to production or demo instances**  
 
 ## Dependencies
 
